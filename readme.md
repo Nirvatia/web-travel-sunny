@@ -1,8 +1,4 @@
-# Landing Page - Sunny
-
-## Deploy
-
-https://vizereth.github.io/template-travel-sunny
+# Landing Page - Travel Sunny
 
 ## Project setup
 ```
